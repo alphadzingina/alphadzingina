@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Alpha.
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://alphadzingina.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falpha_dzee&screen_name=alpha_dzee)
+[![Website](https://img.shields.io/website?label=alphadzingina.github.io&style=for-the-badge&url=https%3A%2F%2Falphadzingina.github.io)](https://alphadzingina.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alpha_dzee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falpha_dzee&screen_name=alpha_dzee)
 
 ## I'm single, day time banker, night time developer!!
 
