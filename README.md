@@ -38,15 +38,6 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="alphadzee's GitHub Stats" src="https://github-readme-stats.alphadzee.vercel.app/api?username=alphadzee&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://alphadzingina.github.io
 [twitter]: https://twitter.com/alpha_dzee
 [linkedin]: https://linkedin.com/in/alpha-dzingina
