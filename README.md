@@ -5,7 +5,6 @@
 
 ## I'm single, day time banker, night time developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything although i mostle write Javascript and Python 🤣
 - 👯 I’m currently looking for full time remote developer jobs
 - 🥅 2022 Goals: say goodbye to banking and be a full time developer
