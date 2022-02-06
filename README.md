@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything although i mostle write Javascript and Python 🤣
 - 👯 I’m currently looking for full time remote developer jobs
-- 🥅 2022 Goals: say goodbye to banking and be a full time developer
+- 🥅 2022 Goals: Use Git/Github for all my projects, say goodbye to banking and be a full time developer
 - ⚡ Fun fact: I love to watch movies and play FIFA
 
 ### Connect with me:
