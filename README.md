@@ -5,9 +5,9 @@
 
 ## I'm single, day time banker, night time developer!!
 
-- 🌱 I’m currently learning everything although i mostle write Javascript and Python 🤣
+- 🌱 Front End. I mostly write Javascript and Python 🤣
 - 👯 I’m currently looking for full time remote developer jobs
-- 🥅 2022 Goals: Use Git/Github for all my projects, say goodbye to banking and be a full time developer
+- 🥅 2024 Goals: Use Git/Github for all my projects, say goodbye to banking and be a full time developer
 - ⚡ Fun fact: I love to watch movies and play FIFA
 
 ### Connect with me:
